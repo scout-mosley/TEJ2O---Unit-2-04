@@ -10,7 +10,7 @@ basic.pause(1000)
 
 
 // when A button pressed Temperature is shown
-let Temperature: number
+let temperature: number
 
 input.onButtonPressed(Button.A, function () {
     basic.clearScreen()
