@@ -9,8 +9,8 @@ basic.showIcon(IconNames.Happy)
 basic.pause(1000)
 
 
-// when A button pressed tempature is shown
-let Tempature: number
+// when A button pressed Temperature is shown
+let Temperature: number
 
 input.onButtonPressed(Button.A, function () {
     basic.clearScreen()
